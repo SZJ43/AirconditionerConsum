@@ -1,8 +1,7 @@
 # AirconditionerConsum
 
 
-![4d5e6af9360469c33f2f2b35489e7e4](https://user-images.githubusercontent.com/64791841/168421997-9e9b37f3-c09a-403c-bf96-22548b1ae987.png)
-
+![da474a5246299e7dd084128fefd7225](https://user-images.githubusercontent.com/64791841/168423003-88da7de5-2da9-42ed-a8df-3bdf2aaee42b.png)
 
 一、根据已有的数据集，可以筛选出有效数据为Room 201a, Room 201b, Room 201c, Room 202a的五至十二月的空调用电量
 
